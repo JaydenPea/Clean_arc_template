@@ -1,4 +1,4 @@
-# Clean Architecture Template for .NET 9
+# Clean Architecture Template for .NET 10
 
 A production-ready Clean Architecture template demonstrating proper dependency inversion, layer isolation, and architectural constraints enforcement. This project serves as a blueprint for scalable .NET applications.
 
